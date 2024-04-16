@@ -8,11 +8,7 @@ As opções referentes à funcionalidade do programa são:
 
 3. Verificar coluna: Juntamente com a opção 3, na mesma linha, será apresentada o índice da coluna (entre 0 a 8) a ser verificada. Se não houver repetição de números, deve-se imprimir o caractere 'N'; caso contrário, imprima 'S'.
 
-4. Verificar quadrante: Juntamente com a opção 4, na mesma linha, será apresentada o índice do quadrante (0 a 8) a ser verificado. Se não houver repetição de números, deve-se imprimir o caractere 'N'; caso contrário, imprima 'S'. Os quadrantes estão enumerados na seguinte forma:
-
-0 1 2
-3 4 5
-6 7 8
+4. Verificar quadrante: Juntamente com a opção 4, na mesma linha, será apresentada o índice do quadrante (0 a 8) a ser verificado. Se não houver repetição de números, deve-se imprimir o caractere 'N'; caso contrário, imprima 'S'. 
 
 5. Verificar matriz: Se não houver repetição de números, deve-se imprimir o caractere 'N'; caso contrário, imprima 'S'
 
